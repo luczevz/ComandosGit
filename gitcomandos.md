@@ -39,4 +39,6 @@
 git@github.com:name/Projeto.git
 
 # link https://docs.github.com/pt/get-started/using-git/about-git
+# youtube https://www.youtube.com/watch?v=mmcOw2ynWEs
+
 
