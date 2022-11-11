@@ -30,7 +30,7 @@
 # 5 - git remote add github git@github.com:name/Projeto.git "adiciona o caminho do repositorio" NO CASO UTILIZAR ESTE COMANDO QUE DA CERTO
 # 6 - git remote add ORIGIN git@github.com:name/Projeto.git "adiciona o caminho do repositorio"
 # 7 - git remote set-url origion git@github.com:luczevz/Projeto.git
-# 8 - git push - u origin main " Mando tudo pro github"
+# 8 - git push - u github main " Mando tudo pro github"
 # 9 - git pull "Qualquer alteração no GitHub vai para sua maquina local"
 
 
